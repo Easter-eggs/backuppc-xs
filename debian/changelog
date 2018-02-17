@@ -1,3 +1,9 @@
+backuppc-xs (0.57~eebpo90+1) stretch-ee; urgency=medium
+
+  * Non-maintainer upload.
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Sat, 17 Feb 2018 11:58:27 +0100
+
 backuppc-xs (0.57) stable; urgency=medium
 
   * 0.57: December 2, 2017
