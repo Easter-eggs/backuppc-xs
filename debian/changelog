@@ -1,3 +1,9 @@
+backuppc-xs (0.57~eebpo100+2) buster-ee; urgency=medium
+
+  * Fix previous bad compilation
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Thu, 23 Jan 2020 15:16:50 +0000
+
 backuppc-xs (0.57~eebpo100+1) buster-ee; urgency=medium
 
   * Non-maintainer upload.
